@@ -1,12 +1,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=QA+%2B+Backend+Engineer;Self-hosted+enthusiast;Construyendo+canirun.gg&font=Fira+Code&center=true&width=440&height=50&color=6366f1&vCenter=true&pause=1000&size=22&duration=3000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=QA+%2B+Backend+Engineer;Construyo+herramientas+que+resuelven+problemas+reales;canirun.gg+%7C+worldcup.chrlss.dev&font=Fira+Code&center=true&width=500&height=50&color=6366f1&vCenter=true&pause=1000&size=22&duration=3000" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://chrlss.dev" target="_blank"><img src="https://img.shields.io/badge/chrlss.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://canirun.gg" target="_blank"><img src="https://img.shields.io/badge/canirun.gg-6366f1?style=for-the-badge&logo=gamepad&logoColor=white" /></a>
+  <a href="https://canirun.gg" target="_blank"><img src="https://img.shields.io/badge/canirun.gg-6366f1?style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a href="https://worldcup.chrlss.dev" target="_blank"><img src="https://img.shields.io/badge/mundial_2026-00985f?style=for-the-badge&logo=futbol&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=chrlss11&style=for-the-badge&color=1a1b27&label=Visitas" />
 </p>
 
@@ -14,12 +15,12 @@
 
 ### Sobre mi
 
-Soy **Christian Rojas**, QA Engineer con transicion a Backend, de Colombia. Vengo del mundo del testing (JMeter, Cypress, automatizacion) y ahora construyo herramientas self-hosted, proyectos que resuelvan algo real y cosas que corran rapido. Todo lo que hago corre en un solo VPS.
+Soy **Christian Rojas**, QA Engineer con transicion a Backend, de Colombia. Vengo del mundo del testing (JMeter, Cypress, automatizacion) y ahora construyo herramientas y proyectos que resuelvan algo real.
 
-- Construyendo **[canirun.gg](https://canirun.gg)** — checker de compatibilidad de juegos para PC
-- Proximo proyecto: **extension/herramienta de reportes profesionales para JMeter** (open source)
-- Trabajando en orquestacion **multi-agente con IA** (self-hosted)
-- Todo desplegado con **Nginx, PM2, Docker y Supabase** en una VPS
+- **[canirun.gg](https://canirun.gg)** — tu PC puede correr este juego? Deteccion de hardware + 1000 juegos de Steam
+- **[worldcup.chrlss.dev](https://worldcup.chrlss.dev)** — app del Mundial 2026 con partidos, posiciones y predicciones *(en desarrollo)*
+- Proximo proyecto: **herramienta de reportes profesionales para JMeter** (open source)
+- Trabajando en orquestacion **multi-agente con IA**
 
 ---
 
@@ -35,16 +36,18 @@ Soy **Christian Rojas**, QA Engineer con transicion a Backend, de Colombia. Veng
 
 ### Proyectos
 
+| Proyecto | Descripcion | Stack | Estado |
+|----------|------------|-------|--------|
+| **[canirun.gg](https://canirun.gg)** | Detecta tu hardware via browser y te dice que juegos puedes correr. Grading S-F, 1000+ juegos de Steam | Astro, Svelte, Bun, PostgreSQL | ✅ Live |
+| **[Mundial 2026](https://worldcup.chrlss.dev)** | Partidos en vivo, posiciones, predicciones, mapa de sedes interactivo | Astro, Svelte, Bun, Leaflet, PostgreSQL | 🚧 En desarrollo |
+| **[chrlss.dev](https://chrlss.dev)** | Portafolio terminal interactivo. Easter eggs, OSINT, IP intelligence, juegos | Vanilla JS, Vite, Bun | ✅ Live |
+| **JMeter Reporter** | Herramienta CLI para generar reportes HTML profesionales de JMeter | Node.js, npm CLI | 📋 Planeado |
+
 <p align="center">
   <a href="https://github.com/chrlss11/canirun.gg">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrlss11&repo=canirun.gg&theme=tokyonight&hide_border=true" width="400" />
   </a>
 </p>
-
-| Proyecto | Descripcion | Stack |
-|----------|------------|-------|
-| **[canirun.gg](https://canirun.gg)** | Tu PC puede correr este juego? Deteccion de hardware via browser + 1000 juegos de Steam con grading S-F | Astro, Svelte, Bun, PostgreSQL |
-| **[chrlss.dev](https://chrlss.dev)** | Portafolio interactivo. Terminal con easter eggs, OSINT, IP intelligence y diseno hacker | Vanilla JS, Vite, Bun |
 
 ---
 
@@ -66,5 +69,5 @@ Soy **Christian Rojas**, QA Engineer con transicion a Backend, de Colombia. Veng
 ---
 
 <p align="center">
-  <em>Construido con cafe desde Colombia</em>
+  <em>Construido con cafe desde Colombia ☕</em>
 </p>
