@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer;Self-hosted+enthusiast;Construyendo+canirun.gg&font=Fira+Code&center=true&width=440&height=50&color=6366f1&vCenter=true&pause=1000&size=22&duration=3000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=QA+%2B+Backend+Engineer;Self-hosted+enthusiast;Construyendo+canirun.gg&font=Fira+Code&center=true&width=440&height=50&color=6366f1&vCenter=true&pause=1000&size=22&duration=3000" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,9 +14,10 @@
 
 ### Sobre mi
 
-Soy **Christian Rojas**, ingeniero backend de Colombia. Me gusta construir herramientas self-hosted, proyectos que resuelvan algo real y hacer que las cosas corran rapido. Todo lo que hago corre en un solo VPS.
+Soy **Christian Rojas**, QA Engineer con transicion a Backend, de Colombia. Vengo del mundo del testing (JMeter, Cypress, automatizacion) y ahora construyo herramientas self-hosted, proyectos que resuelvan algo real y cosas que corran rapido. Todo lo que hago corre en un solo VPS.
 
 - Construyendo **[canirun.gg](https://canirun.gg)** — checker de compatibilidad de juegos para PC
+- Proximo proyecto: **extension/herramienta de reportes profesionales para JMeter** (open source)
 - Trabajando en orquestacion **multi-agente con IA** (self-hosted)
 - Todo desplegado con **Nginx, PM2, Docker y Supabase** en una VPS
 
