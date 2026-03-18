@@ -1,26 +1,26 @@
-## Hey, I'm Christian Rojas
+## Hola, soy Christian Rojas
 
-Backend engineer from Colombia. I build self-hosted tools, side projects, and things that run fast.
+Ingeniero Backend de Colombia. Construyo herramientas self-hosted, proyectos propios y cosas que corran rapido.
 
-### What I work with
+### Stack
 
 ```
 Node.js / Bun      TypeScript      PostgreSQL      Docker
 NestJS / Hono      Svelte / Astro  Supabase        Nginx
 ```
 
-### Projects
+### Proyectos
 
-**[canirun.gg](https://canirun.gg)** — Can your PC run this game? Browser hardware detection + Steam game requirements with S-F grading. Built with Astro, Svelte, Bun, and PostgreSQL. [Source](https://github.com/chrlss11/canirun.gg)
+**[canirun.gg](https://canirun.gg)** — Tu PC puede correr este juego? Deteccion de hardware via browser + requisitos de juegos de Steam con sistema de grades S-F. Astro, Svelte, Bun, PostgreSQL. [Codigo](https://github.com/chrlss11/canirun.gg)
 
-**[chrlss.dev](https://chrlss.dev)** — My portfolio. Interactive terminal UI with easter eggs, IP intelligence, and a hacker-themed design. Vanilla JS + Vite.
+**[chrlss.dev](https://chrlss.dev)** — Mi portafolio. Terminal interactiva con easter eggs, inteligencia IP y diseno hacker. Vanilla JS + Vite.
 
-### Currently
+### Actualmente
 
-- Building [canirun.gg](https://canirun.gg) — game compatibility checker inspired by [canirun.ai](https://canirun.ai)
-- Working on multi-agent AI orchestration (self-hosted)
-- Running everything on a single VPS with Nginx, PM2, Docker, and Supabase
+- Construyendo [canirun.gg](https://canirun.gg) — checker de compatibilidad de juegos inspirado en [canirun.ai](https://canirun.ai)
+- Trabajando en orquestacion multi-agente con IA (self-hosted)
+- Todo corriendo en un solo VPS con Nginx, PM2, Docker y Supabase
 
-### Connect
+### Contacto
 
 [chrlss.dev](https://chrlss.dev)
